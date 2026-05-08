@@ -3,6 +3,8 @@
 ## Project Description
 This project is a Natural Language Processing (NLP) application designed to classify and interpret dialogues commonly used by Indian parents. It focuses on the linguistic nuances of Hinglish to identify the underlying emotion, the real meaning behind the words, and the associated threat level.
 
+![Project Demo](ml-project-ezgif.com-video-to-gif-converter.gif)
+
 ## Tech Stack & Rationale
 
 ### 1. Python
@@ -35,3 +37,15 @@ Instead of a simple lookup, we use **Cosine Similarity**.
 
 ## Interface
 - Terminal-based Command Line Interface (CLI) for real-time dialogue analysis.
+
+## Sample Dialogues
+Here are some examples of what the classifier decodes:
+
+| Dialogue | Predicted Emotion | Hidden Meaning | Threat Level |
+| :--- | :--- | :--- | :--- |
+| "Phone hi chala lo pura din" | Sarcasm | You are a phone addict | LOW |
+| "Ghar aa tu, phir batati hu" | Anger | You are in big trouble once you get home | HIGH ⚠️ |
+| "Beta, khana kha liya?" | Care | Checking if you're hungry | LOW |
+| "Sharma ji ka beta dekho" | Disappointment | Compare yourself to others | MEDIUM |
+| "Zinda gaad dungi" | Anger | I'm beyond furious | RIP ⚠️⚠️⚠️ |
+| "Theek hai, meri mat suno" | Emotional Blackmail | Ignore me, you'll regret it | MEDIUM |
