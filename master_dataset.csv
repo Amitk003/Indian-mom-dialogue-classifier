@@ -1,0 +1,603 @@
+dialogue,emotion,hidden_meaning,threat_level,clean_dialogue
+Khaana kha liya?,care,bas pet khali mat rakho,low,khaana kha liya
+Paani piya?,care,hydrate rehna,low,paani piya
+Jacket le lena,care,bahar thand hai,low,jacket le lena
+Seedha ghar aa jana,care,safe rehna,low,seedha ghar aa jana
+Dawai le li?,care,health ignore mat karo,low,dawai le li
+Phone hi chala lo pura din,sarcasm,tum phone addict ho,low,phone hi chala lo pura din
+"Wah beta, bahut mehnat ho rahi hai",sarcasm,tum kuch nahi kar rahe,low,wah beta bahut mehnat ho rahi hai
+Tumhara room museum lag raha hai,sarcasm,room saaf karo,low,tumhara room museum lag raha hai
+Bas reels dekh lo,sarcasm,padhai bhi kar lo,low,bas reels dekh lo
+Alarm bhi tumse haar gaya,sarcasm,jaldi uth jao,low,alarm bhi tumse haar gaya
+Abhi homework karo,warning,baad mein problem hogi,medium,abhi homework karo
+Late aaye toh dekh lena,warning,discipline follow karo,high,late aaye toh dekh lena
+Phone table pe rakho,warning,zyada use mat karo,medium,phone table pe rakho
+Jhooth bola toh bura hoga,warning,sach bolo,high,jhooth bola toh bura hoga
+Room saaf karo abhi,warning,mess band karo,medium,room saaf karo abhi
+Theek hai main hi sab kar leti hoon,passive_aggressive,tum help nahi karte,low,theek hai main hi sab kar leti hoon
+Haan haan tum toh bahut busy ho,passive_aggressive,mere liye time nahi hai,low,haan haan tum toh bahut busy ho
+Main chup hi rehti hoon,passive_aggressive,tum sunte nahi,medium,main chup hi rehti hoon
+Koi baat nahi mujhe aadat hai,passive_aggressive,main ignored feel karti hoon,low,koi baat nahi mujhe aadat hai
+Tumhari marzi,passive_aggressive,main upset hoon,medium,tumhari marzi
+Maine tumhare liye itna kiya,emotional_blackmail,thoda appreciate karo,medium,maine tumhare liye itna kiya
+Mere baad kaun sambhalega,emotional_blackmail,meri value samjho,high,mere baad kaun sambhalega
+Mujhe koi yaad hi nahi karta,emotional_blackmail,attention do,medium,mujhe koi yaad hi nahi karta
+Bas ek call kar dete,emotional_blackmail,main wait kar rahi thi,medium,bas ek call kar dete
+Agar mujhe kuch ho gaya toh,emotional_blackmail,meri baat suno,rip,agar mujhe kuch ho gaya toh
+Mera dimag mat kharab karo,anger,abhi chup ho jao,high,mera dimag mat kharab karo
+Ek baar aur bola na,anger,bahut gussa aa jayega,rip,ek baar aur bola na
+Kitni baar samjhau,anger,baat suno,high,kitni baar samjhau
+Abhi room saaf karo,anger,bahas band,high,abhi room saaf karo
+Mere patience ka test mat lo,anger,limit cross mat karo,high,mere patience ka test mat lo
+Teri favorite sabzi banayi hai,love,tumhari khushi important hai,low,teri favorite sabzi banayi hai
+Message kar dena pahunch ke,love,main care karti hoon,low,message kar dena pahunch ke
+Mera baccha thak gaya hoga,love,thoda rest kar lo,low,mera baccha thak gaya hoga
+Blanket rakh diya hai,love,thand lag jayegi,low,blanket rakh diya hai
+Main gussa ho jaun phir bhi pyaar kam nahi hota,love,tum important ho,low,main gussa ho jaun phir bhi pyaar kam nahi hota
+Mujhe tumse ye umeed nahi thi,disappointment,tumne disappoint kiya,medium,mujhe tumse ye umeed nahi thi
+Marks aur better aa sakte the,disappointment,aur effort karo,medium,marks aur better aa sakte the
+Bas itna hi serious ho?,disappointment,focus badhao,low,bas itna hi serious ho
+Maine socha tha tum samajhdar ho,disappointment,better decision lo,medium,maine socha tha tum samajhdar ho
+Dil tod diya tumne,disappointment,main hurt hoon,high,dil tod diya tumne
+Mujhe WiFi ka update nahi chahiye,anger,WiFi ki wajah se gussa hai,high,mujhe wifi ka update nahi chahiye
+charger ko thoda control karo na,sarcasm,tum charger zyada use kar rahe ho,low,charger ko thoda control karo na
+Pura din room hi chalega kya yaar,passive_aggressive,main upset hoon,medium,pura din room hi chalega kya yaar
+Pura din reels hi chalega kya na,sarcasm,tum reels zyada use kar rahe ho,low,pura din reels hi chalega kya na
+Pura din room hi chalega kya beta,love,main tumhari care karti hoon,low,pura din room hi chalega kya beta
+kitchen ko thoda control karo beta,care,kitchen ke saath balance rakho,low,kitchen ko thoda control karo beta
+shopping pe hi future depend karega kya please,care,shopping ke saath balance rakho,low,shopping pe hi future depend karega kya please
+Pura din WiFi hi chalega kya na,love,main tumhari care karti hoon,low,pura din wifi hi chalega kya na
+shopping pe hi future depend karega kya na,emotional_blackmail,mujhe ignore mat karo,medium,shopping pe hi future depend karega kya na
+Pura din charger hi chalega kya na,passive_aggressive,main upset hoon,low,pura din charger hi chalega kya na
+TV ko side mein rakho thodi der abhi,care,TV ke saath balance rakho,low,tv ko side mein rakho thodi der abhi
+friends ko side mein rakho thodi der na,love,main tumhari care karti hoon,low,friends ko side mein rakho thodi der na
+Aaj bhi charger ka hi scene hai seriously,disappointment,better karo,low,aaj bhi charger ka hi scene hai seriously
+Mujhe khaana ka update nahi chahiye beta,sarcasm,tum khaana zyada use kar rahe ho,low,mujhe khaana ka update nahi chahiye beta
+WiFi ko side mein rakho thodi der,anger,WiFi ki wajah se gussa hai,rip,wifi ko side mein rakho thodi der
+shopping se bahar bhi duniya hai please,sarcasm,tum shopping zyada use kar rahe ho,low,shopping se bahar bhi duniya hai please
+gaming ko side mein rakho thodi der seriously,anger,gaming ki wajah se gussa hai,high,gaming ko side mein rakho thodi der seriously
+sleep ko side mein rakho thodi der abhi,sarcasm,tum sleep zyada use kar rahe ho,low,sleep ko side mein rakho thodi der abhi
+Aaj bhi room ka hi scene hai abhi,sarcasm,tum room zyada use kar rahe ho,low,aaj bhi room ka hi scene hai abhi
+Mujhe college ka update nahi chahiye,disappointment,better karo,medium,mujhe college ka update nahi chahiye
+charger pe hi future depend karega kya yaar,disappointment,better karo,low,charger pe hi future depend karega kya yaar
+Aaj bhi TV ka hi scene hai beta,care,TV ke saath balance rakho,low,aaj bhi tv ka hi scene hai beta
+Mujhe kitchen ka update nahi chahiye,passive_aggressive,main upset hoon,medium,mujhe kitchen ka update nahi chahiye
+Mujhe attendance ka update nahi chahiye beta,warning,attendance control karo,high,mujhe attendance ka update nahi chahiye beta
+Aaj bhi shopping ka hi scene hai abhi,love,main tumhari care karti hoon,low,aaj bhi shopping ka hi scene hai abhi
+Mujhe charger ka update nahi chahiye beta,love,main tumhari care karti hoon,low,mujhe charger ka update nahi chahiye beta
+padhai pe hi future depend karega kya beta,warning,padhai control karo,medium,padhai pe hi future depend karega kya beta
+phone ko side mein rakho thodi der please,passive_aggressive,main upset hoon,low,phone ko side mein rakho thodi der please
+phone pe hi future depend karega kya na,emotional_blackmail,mujhe ignore mat karo,high,phone pe hi future depend karega kya na
+friends pe hi future depend karega kya yaar,anger,friends ki wajah se gussa hai,high,friends pe hi future depend karega kya yaar
+Mujhe kitchen ka update nahi chahiye yaar,love,main tumhari care karti hoon,low,mujhe kitchen ka update nahi chahiye yaar
+Mujhe gaming ka update nahi chahiye,sarcasm,tum gaming zyada use kar rahe ho,low,mujhe gaming ka update nahi chahiye
+Bas padhai mein hi busy rehna beta,passive_aggressive,main upset hoon,medium,bas padhai mein hi busy rehna beta
+friends ko thoda control karo,sarcasm,tum friends zyada use kar rahe ho,low,friends ko thoda control karo
+Pura din WiFi hi chalega kya please,care,WiFi ke saath balance rakho,low,pura din wifi hi chalega kya please
+Bas padhai mein hi busy rehna na,care,padhai ke saath balance rakho,low,bas padhai mein hi busy rehna na
+Aaj bhi WiFi ka hi scene hai please,love,main tumhari care karti hoon,low,aaj bhi wifi ka hi scene hai please
+Pura din gaming hi chalega kya seriously,anger,gaming ki wajah se gussa hai,high,pura din gaming hi chalega kya seriously
+attendance ko side mein rakho thodi der please,disappointment,better karo,medium,attendance ko side mein rakho thodi der please
+Pura din WiFi hi chalega kya abhi,sarcasm,tum WiFi zyada use kar rahe ho,low,pura din wifi hi chalega kya abhi
+sleep ko side mein rakho thodi der na,anger,sleep ki wajah se gussa hai,high,sleep ko side mein rakho thodi der na
+TV se bahar bhi duniya hai beta,care,TV ke saath balance rakho,low,tv se bahar bhi duniya hai beta
+Aaj bhi bike ka hi scene hai abhi,care,bike ke saath balance rakho,low,aaj bhi bike ka hi scene hai abhi
+sleep se bahar bhi duniya hai beta,sarcasm,tum sleep zyada use kar rahe ho,low,sleep se bahar bhi duniya hai beta
+reels se bahar bhi duniya hai na,anger,reels ki wajah se gussa hai,high,reels se bahar bhi duniya hai na
+Mujhe reels ka update nahi chahiye beta,passive_aggressive,main upset hoon,low,mujhe reels ka update nahi chahiye beta
+charger ko thoda control karo seriously,disappointment,better karo,low,charger ko thoda control karo seriously
+Aaj bhi gaming ka hi scene hai abhi,emotional_blackmail,mujhe ignore mat karo,medium,aaj bhi gaming ka hi scene hai abhi
+attendance se bahar bhi duniya hai,anger,attendance ki wajah se gussa hai,rip,attendance se bahar bhi duniya hai
+Bas khaana mein hi busy rehna beta,passive_aggressive,main upset hoon,medium,bas khaana mein hi busy rehna beta
+TV ko side mein rakho thodi der yaar,anger,TV ki wajah se gussa hai,high,tv ko side mein rakho thodi der yaar
+Pura din padhai hi chalega kya seriously,anger,padhai ki wajah se gussa hai,rip,pura din padhai hi chalega kya seriously
+gaming pe hi future depend karega kya seriously,passive_aggressive,main upset hoon,medium,gaming pe hi future depend karega kya seriously
+Mujhe padhai ka update nahi chahiye yaar,anger,padhai ki wajah se gussa hai,rip,mujhe padhai ka update nahi chahiye yaar
+laptop pe hi future depend karega kya beta,sarcasm,tum laptop zyada use kar rahe ho,low,laptop pe hi future depend karega kya beta
+WiFi ko side mein rakho thodi der seriously,care,WiFi ke saath balance rakho,low,wifi ko side mein rakho thodi der seriously
+gaming se bahar bhi duniya hai na,warning,gaming control karo,medium,gaming se bahar bhi duniya hai na
+phone ko thoda control karo na,warning,phone control karo,medium,phone ko thoda control karo na
+Bas tiffin mein hi busy rehna,warning,tiffin control karo,medium,bas tiffin mein hi busy rehna
+Aaj bhi TV ka hi scene hai seriously,emotional_blackmail,mujhe ignore mat karo,medium,aaj bhi tv ka hi scene hai seriously
+Mujhe sleep ka update nahi chahiye,anger,sleep ki wajah se gussa hai,high,mujhe sleep ka update nahi chahiye
+Mujhe attendance ka update nahi chahiye na,anger,attendance ki wajah se gussa hai,high,mujhe attendance ka update nahi chahiye na
+bike ko thoda control karo seriously,warning,bike control karo,high,bike ko thoda control karo seriously
+phone pe hi future depend karega kya beta,warning,phone control karo,medium,phone pe hi future depend karega kya beta
+khaana ko thoda control karo abhi,disappointment,better karo,medium,khaana ko thoda control karo abhi
+khaana ko thoda control karo beta,disappointment,better karo,low,khaana ko thoda control karo beta
+Pura din room hi chalega kya na,emotional_blackmail,mujhe ignore mat karo,high,pura din room hi chalega kya na
+padhai ko side mein rakho thodi der please,care,padhai ke saath balance rakho,low,padhai ko side mein rakho thodi der please
+Aaj bhi bike ka hi scene hai seriously,passive_aggressive,main upset hoon,low,aaj bhi bike ka hi scene hai seriously
+Mujhe WiFi ka update nahi chahiye yaar,disappointment,better karo,low,mujhe wifi ka update nahi chahiye yaar
+Pura din friends hi chalega kya yaar,disappointment,better karo,low,pura din friends hi chalega kya yaar
+WiFi se bahar bhi duniya hai beta,sarcasm,tum WiFi zyada use kar rahe ho,low,wifi se bahar bhi duniya hai beta
+WiFi ko side mein rakho thodi der abhi,emotional_blackmail,mujhe ignore mat karo,medium,wifi ko side mein rakho thodi der abhi
+kitchen ko side mein rakho thodi der beta,sarcasm,tum kitchen zyada use kar rahe ho,low,kitchen ko side mein rakho thodi der beta
+Mujhe laptop ka update nahi chahiye please,passive_aggressive,main upset hoon,medium,mujhe laptop ka update nahi chahiye please
+TV se bahar bhi duniya hai please,love,main tumhari care karti hoon,low,tv se bahar bhi duniya hai please
+charger ko thoda control karo please,sarcasm,tum charger zyada use kar rahe ho,low,charger ko thoda control karo please
+attendance ko thoda control karo please,disappointment,better karo,medium,attendance ko thoda control karo please
+Pura din bike hi chalega kya seriously,emotional_blackmail,mujhe ignore mat karo,medium,pura din bike hi chalega kya seriously
+Pura din khaana hi chalega kya please,passive_aggressive,main upset hoon,medium,pura din khaana hi chalega kya please
+Aaj bhi laptop ka hi scene hai seriously,care,laptop ke saath balance rakho,low,aaj bhi laptop ka hi scene hai seriously
+Aaj bhi tiffin ka hi scene hai beta,warning,tiffin control karo,high,aaj bhi tiffin ka hi scene hai beta
+Pura din friends hi chalega kya,disappointment,better karo,medium,pura din friends hi chalega kya
+Pura din tiffin hi chalega kya,warning,tiffin control karo,high,pura din tiffin hi chalega kya
+Pura din sleep hi chalega kya na,sarcasm,tum sleep zyada use kar rahe ho,low,pura din sleep hi chalega kya na
+Aaj bhi padhai ka hi scene hai yaar,passive_aggressive,main upset hoon,low,aaj bhi padhai ka hi scene hai yaar
+Mujhe friends ka update nahi chahiye please,care,friends ke saath balance rakho,low,mujhe friends ka update nahi chahiye please
+Bas room mein hi busy rehna beta,warning,room control karo,medium,bas room mein hi busy rehna beta
+room pe hi future depend karega kya please,emotional_blackmail,mujhe ignore mat karo,medium,room pe hi future depend karega kya please
+Bas bike mein hi busy rehna yaar,emotional_blackmail,mujhe ignore mat karo,high,bas bike mein hi busy rehna yaar
+sleep se bahar bhi duniya hai please,warning,sleep control karo,medium,sleep se bahar bhi duniya hai please
+phone ko thoda control karo abhi,care,phone ke saath balance rakho,low,phone ko thoda control karo abhi
+bike ko side mein rakho thodi der yaar,passive_aggressive,main upset hoon,low,bike ko side mein rakho thodi der yaar
+tiffin ko side mein rakho thodi der na,sarcasm,tum tiffin zyada use kar rahe ho,low,tiffin ko side mein rakho thodi der na
+reels se bahar bhi duniya hai seriously,passive_aggressive,main upset hoon,low,reels se bahar bhi duniya hai seriously
+kitchen se bahar bhi duniya hai seriously,warning,kitchen control karo,medium,kitchen se bahar bhi duniya hai seriously
+Pura din phone hi chalega kya yaar,warning,phone control karo,high,pura din phone hi chalega kya yaar
+Pura din room hi chalega kya seriously,warning,room control karo,high,pura din room hi chalega kya seriously
+Aaj bhi reels ka hi scene hai yaar,emotional_blackmail,mujhe ignore mat karo,medium,aaj bhi reels ka hi scene hai yaar
+Aaj bhi laptop ka hi scene hai,warning,laptop control karo,high,aaj bhi laptop ka hi scene hai
+charger se bahar bhi duniya hai beta,emotional_blackmail,mujhe ignore mat karo,high,charger se bahar bhi duniya hai beta
+Bas college mein hi busy rehna please,care,college ke saath balance rakho,low,bas college mein hi busy rehna please
+phone se bahar bhi duniya hai,warning,phone control karo,high,phone se bahar bhi duniya hai
+Bas sleep mein hi busy rehna na,disappointment,better karo,low,bas sleep mein hi busy rehna na
+Aaj bhi padhai ka hi scene hai seriously,care,padhai ke saath balance rakho,low,aaj bhi padhai ka hi scene hai seriously
+Mujhe WiFi ka update nahi chahiye na,sarcasm,tum WiFi zyada use kar rahe ho,low,mujhe wifi ka update nahi chahiye na
+kitchen ko thoda control karo please,care,kitchen ke saath balance rakho,low,kitchen ko thoda control karo please
+Pura din reels hi chalega kya abhi,emotional_blackmail,mujhe ignore mat karo,medium,pura din reels hi chalega kya abhi
+friends ko side mein rakho thodi der beta,love,main tumhari care karti hoon,low,friends ko side mein rakho thodi der beta
+WiFi ko thoda control karo abhi,emotional_blackmail,mujhe ignore mat karo,high,wifi ko thoda control karo abhi
+bike ko thoda control karo,warning,bike control karo,medium,bike ko thoda control karo
+room pe hi future depend karega kya abhi,care,room ke saath balance rakho,low,room pe hi future depend karega kya abhi
+Mujhe khaana ka update nahi chahiye na,anger,khaana ki wajah se gussa hai,rip,mujhe khaana ka update nahi chahiye na
+Bas phone mein hi busy rehna yaar,care,phone ke saath balance rakho,low,bas phone mein hi busy rehna yaar
+phone ko side mein rakho thodi der abhi,emotional_blackmail,mujhe ignore mat karo,medium,phone ko side mein rakho thodi der abhi
+Pura din bike hi chalega kya abhi,sarcasm,tum bike zyada use kar rahe ho,low,pura din bike hi chalega kya abhi
+Pura din sleep hi chalega kya beta,disappointment,better karo,medium,pura din sleep hi chalega kya beta
+reels ko side mein rakho thodi der seriously,passive_aggressive,main upset hoon,medium,reels ko side mein rakho thodi der seriously
+padhai ko side mein rakho thodi der abhi,love,main tumhari care karti hoon,low,padhai ko side mein rakho thodi der abhi
+Bas room mein hi busy rehna na,emotional_blackmail,mujhe ignore mat karo,medium,bas room mein hi busy rehna na
+Aaj bhi friends ka hi scene hai na,warning,friends control karo,high,aaj bhi friends ka hi scene hai na
+phone ko side mein rakho thodi der yaar,warning,phone control karo,medium,phone ko side mein rakho thodi der yaar
+Bas khaana mein hi busy rehna please,emotional_blackmail,mujhe ignore mat karo,high,bas khaana mein hi busy rehna please
+attendance ko side mein rakho thodi der seriously,emotional_blackmail,mujhe ignore mat karo,high,attendance ko side mein rakho thodi der seriously
+Bas shopping mein hi busy rehna please,sarcasm,tum shopping zyada use kar rahe ho,low,bas shopping mein hi busy rehna please
+gaming ko thoda control karo please,sarcasm,tum gaming zyada use kar rahe ho,low,gaming ko thoda control karo please
+padhai ko side mein rakho thodi der yaar,disappointment,better karo,medium,padhai ko side mein rakho thodi der yaar
+Pura din TV hi chalega kya beta,passive_aggressive,main upset hoon,low,pura din tv hi chalega kya beta
+charger pe hi future depend karega kya,emotional_blackmail,mujhe ignore mat karo,high,charger pe hi future depend karega kya
+reels ko side mein rakho thodi der yaar,anger,reels ki wajah se gussa hai,rip,reels ko side mein rakho thodi der yaar
+laptop ko thoda control karo yaar,care,laptop ke saath balance rakho,low,laptop ko thoda control karo yaar
+Aaj bhi kitchen ka hi scene hai yaar,disappointment,better karo,low,aaj bhi kitchen ka hi scene hai yaar
+phone se bahar bhi duniya hai seriously,anger,phone ki wajah se gussa hai,rip,phone se bahar bhi duniya hai seriously
+Bas khaana mein hi busy rehna abhi,love,main tumhari care karti hoon,low,bas khaana mein hi busy rehna abhi
+Aaj bhi college ka hi scene hai please,care,college ke saath balance rakho,low,aaj bhi college ka hi scene hai please
+Mujhe kitchen ka update nahi chahiye seriously,sarcasm,tum kitchen zyada use kar rahe ho,low,mujhe kitchen ka update nahi chahiye seriously
+Mujhe charger ka update nahi chahiye seriously,sarcasm,tum charger zyada use kar rahe ho,low,mujhe charger ka update nahi chahiye seriously
+Aaj bhi room ka hi scene hai,emotional_blackmail,mujhe ignore mat karo,medium,aaj bhi room ka hi scene hai
+Bas WiFi mein hi busy rehna yaar,emotional_blackmail,mujhe ignore mat karo,high,bas wifi mein hi busy rehna yaar
+TV se bahar bhi duniya hai,anger,TV ki wajah se gussa hai,rip,tv se bahar bhi duniya hai
+Bas shopping mein hi busy rehna abhi,love,main tumhari care karti hoon,low,bas shopping mein hi busy rehna abhi
+Mujhe room ka update nahi chahiye yaar,sarcasm,tum room zyada use kar rahe ho,low,mujhe room ka update nahi chahiye yaar
+college ko side mein rakho thodi der na,warning,college control karo,medium,college ko side mein rakho thodi der na
+laptop ko side mein rakho thodi der please,warning,laptop control karo,high,laptop ko side mein rakho thodi der please
+Aaj bhi college ka hi scene hai yaar,emotional_blackmail,mujhe ignore mat karo,high,aaj bhi college ka hi scene hai yaar
+college ko side mein rakho thodi der,passive_aggressive,main upset hoon,medium,college ko side mein rakho thodi der
+Pura din laptop hi chalega kya na,warning,laptop control karo,medium,pura din laptop hi chalega kya na
+tiffin pe hi future depend karega kya beta,disappointment,better karo,low,tiffin pe hi future depend karega kya beta
+laptop se bahar bhi duniya hai na,sarcasm,tum laptop zyada use kar rahe ho,low,laptop se bahar bhi duniya hai na
+Bas friends mein hi busy rehna please,sarcasm,tum friends zyada use kar rahe ho,low,bas friends mein hi busy rehna please
+TV ko thoda control karo yaar,emotional_blackmail,mujhe ignore mat karo,high,tv ko thoda control karo yaar
+friends ko thoda control karo please,emotional_blackmail,mujhe ignore mat karo,high,friends ko thoda control karo please
+Bas WiFi mein hi busy rehna please,anger,WiFi ki wajah se gussa hai,high,bas wifi mein hi busy rehna please
+phone pe hi future depend karega kya yaar,emotional_blackmail,mujhe ignore mat karo,medium,phone pe hi future depend karega kya yaar
+gaming ko thoda control karo yaar,disappointment,better karo,low,gaming ko thoda control karo yaar
+Bas attendance mein hi busy rehna beta,disappointment,better karo,low,bas attendance mein hi busy rehna beta
+Pura din WiFi hi chalega kya,warning,WiFi control karo,high,pura din wifi hi chalega kya
+college pe hi future depend karega kya abhi,care,college ke saath balance rakho,low,college pe hi future depend karega kya abhi
+Mujhe bike ka update nahi chahiye,emotional_blackmail,mujhe ignore mat karo,medium,mujhe bike ka update nahi chahiye
+Bas college mein hi busy rehna yaar,sarcasm,tum college zyada use kar rahe ho,low,bas college mein hi busy rehna yaar
+reels ko thoda control karo na,emotional_blackmail,mujhe ignore mat karo,medium,reels ko thoda control karo na
+Aaj bhi attendance ka hi scene hai abhi,emotional_blackmail,mujhe ignore mat karo,high,aaj bhi attendance ka hi scene hai abhi
+Bas gaming mein hi busy rehna,passive_aggressive,main upset hoon,low,bas gaming mein hi busy rehna
+college ko thoda control karo,love,main tumhari care karti hoon,low,college ko thoda control karo
+Mujhe gaming ka update nahi chahiye please,passive_aggressive,main upset hoon,low,mujhe gaming ka update nahi chahiye please
+tiffin se bahar bhi duniya hai yaar,passive_aggressive,main upset hoon,low,tiffin se bahar bhi duniya hai yaar
+TV ko thoda control karo seriously,love,main tumhari care karti hoon,low,tv ko thoda control karo seriously
+Pura din bike hi chalega kya yaar,emotional_blackmail,mujhe ignore mat karo,medium,pura din bike hi chalega kya yaar
+Aaj bhi sleep ka hi scene hai na,passive_aggressive,main upset hoon,low,aaj bhi sleep ka hi scene hai na
+Bas laptop mein hi busy rehna yaar,disappointment,better karo,medium,bas laptop mein hi busy rehna yaar
+phone pe hi future depend karega kya,passive_aggressive,main upset hoon,medium,phone pe hi future depend karega kya
+Mujhe laptop ka update nahi chahiye yaar,care,laptop ke saath balance rakho,low,mujhe laptop ka update nahi chahiye yaar
+charger se bahar bhi duniya hai yaar,love,main tumhari care karti hoon,low,charger se bahar bhi duniya hai yaar
+khaana ko thoda control karo please,warning,khaana control karo,medium,khaana ko thoda control karo please
+Mujhe charger ka update nahi chahiye,sarcasm,tum charger zyada use kar rahe ho,low,mujhe charger ka update nahi chahiye
+padhai ko thoda control karo abhi,love,main tumhari care karti hoon,low,padhai ko thoda control karo abhi
+charger ko side mein rakho thodi der abhi,anger,charger ki wajah se gussa hai,high,charger ko side mein rakho thodi der abhi
+Mujhe reels ka update nahi chahiye,love,main tumhari care karti hoon,low,mujhe reels ka update nahi chahiye
+room ko side mein rakho thodi der,love,main tumhari care karti hoon,low,room ko side mein rakho thodi der
+Bas sleep mein hi busy rehna abhi,care,sleep ke saath balance rakho,low,bas sleep mein hi busy rehna abhi
+friends se bahar bhi duniya hai please,sarcasm,tum friends zyada use kar rahe ho,low,friends se bahar bhi duniya hai please
+Aaj bhi room ka hi scene hai please,anger,room ki wajah se gussa hai,rip,aaj bhi room ka hi scene hai please
+Pura din phone hi chalega kya seriously,emotional_blackmail,mujhe ignore mat karo,medium,pura din phone hi chalega kya seriously
+khaana ko side mein rakho thodi der seriously,passive_aggressive,main upset hoon,medium,khaana ko side mein rakho thodi der seriously
+Mujhe sleep ka update nahi chahiye seriously,love,main tumhari care karti hoon,low,mujhe sleep ka update nahi chahiye seriously
+Bas WiFi mein hi busy rehna seriously,emotional_blackmail,mujhe ignore mat karo,high,bas wifi mein hi busy rehna seriously
+attendance se bahar bhi duniya hai na,anger,attendance ki wajah se gussa hai,high,attendance se bahar bhi duniya hai na
+kitchen pe hi future depend karega kya yaar,passive_aggressive,main upset hoon,low,kitchen pe hi future depend karega kya yaar
+room ko side mein rakho thodi der na,sarcasm,tum room zyada use kar rahe ho,low,room ko side mein rakho thodi der na
+Mujhe laptop ka update nahi chahiye,anger,laptop ki wajah se gussa hai,high,mujhe laptop ka update nahi chahiye
+Bas padhai mein hi busy rehna yaar,emotional_blackmail,mujhe ignore mat karo,medium,bas padhai mein hi busy rehna yaar
+attendance pe hi future depend karega kya beta,disappointment,better karo,low,attendance pe hi future depend karega kya beta
+Bas attendance mein hi busy rehna abhi,love,main tumhari care karti hoon,low,bas attendance mein hi busy rehna abhi
+Aaj bhi charger ka hi scene hai beta,emotional_blackmail,mujhe ignore mat karo,high,aaj bhi charger ka hi scene hai beta
+reels pe hi future depend karega kya beta,disappointment,better karo,low,reels pe hi future depend karega kya beta
+Bas college mein hi busy rehna,warning,college control karo,high,bas college mein hi busy rehna
+khaana ko side mein rakho thodi der,passive_aggressive,main upset hoon,low,khaana ko side mein rakho thodi der
+Bas gaming mein hi busy rehna seriously,care,gaming ke saath balance rakho,low,bas gaming mein hi busy rehna seriously
+charger ko thoda control karo beta,disappointment,better karo,medium,charger ko thoda control karo beta
+padhai se bahar bhi duniya hai yaar,passive_aggressive,main upset hoon,low,padhai se bahar bhi duniya hai yaar
+Pura din phone hi chalega kya beta,emotional_blackmail,mujhe ignore mat karo,high,pura din phone hi chalega kya beta
+Aaj bhi TV ka hi scene hai,care,TV ke saath balance rakho,low,aaj bhi tv ka hi scene hai
+phone se bahar bhi duniya hai abhi,passive_aggressive,main upset hoon,medium,phone se bahar bhi duniya hai abhi
+Aaj bhi laptop ka hi scene hai beta,anger,laptop ki wajah se gussa hai,high,aaj bhi laptop ka hi scene hai beta
+gaming ko side mein rakho thodi der,care,gaming ke saath balance rakho,low,gaming ko side mein rakho thodi der
+Mujhe khaana ka update nahi chahiye abhi,love,main tumhari care karti hoon,low,mujhe khaana ka update nahi chahiye abhi
+Pura din shopping hi chalega kya yaar,warning,shopping control karo,medium,pura din shopping hi chalega kya yaar
+Aaj bhi tiffin ka hi scene hai yaar,emotional_blackmail,mujhe ignore mat karo,high,aaj bhi tiffin ka hi scene hai yaar
+college se bahar bhi duniya hai yaar,care,college ke saath balance rakho,low,college se bahar bhi duniya hai yaar
+kitchen se bahar bhi duniya hai yaar,sarcasm,tum kitchen zyada use kar rahe ho,low,kitchen se bahar bhi duniya hai yaar
+WiFi ko thoda control karo na,warning,WiFi control karo,medium,wifi ko thoda control karo na
+Pura din kitchen hi chalega kya abhi,warning,kitchen control karo,high,pura din kitchen hi chalega kya abhi
+Pura din padhai hi chalega kya yaar,warning,padhai control karo,high,pura din padhai hi chalega kya yaar
+college pe hi future depend karega kya yaar,passive_aggressive,main upset hoon,low,college pe hi future depend karega kya yaar
+Mujhe room ka update nahi chahiye abhi,anger,room ki wajah se gussa hai,high,mujhe room ka update nahi chahiye abhi
+Mujhe reels ka update nahi chahiye seriously,warning,reels control karo,medium,mujhe reels ka update nahi chahiye seriously
+kitchen se bahar bhi duniya hai beta,warning,kitchen control karo,medium,kitchen se bahar bhi duniya hai beta
+TV ko thoda control karo abhi,passive_aggressive,main upset hoon,low,tv ko thoda control karo abhi
+charger ko side mein rakho thodi der na,love,main tumhari care karti hoon,low,charger ko side mein rakho thodi der na
+laptop ko thoda control karo na,disappointment,better karo,low,laptop ko thoda control karo na
+Bas attendance mein hi busy rehna seriously,disappointment,better karo,medium,bas attendance mein hi busy rehna seriously
+laptop ko side mein rakho thodi der,disappointment,better karo,medium,laptop ko side mein rakho thodi der
+WiFi se bahar bhi duniya hai yaar,sarcasm,tum WiFi zyada use kar rahe ho,low,wifi se bahar bhi duniya hai yaar
+padhai ko side mein rakho thodi der,anger,padhai ki wajah se gussa hai,high,padhai ko side mein rakho thodi der
+padhai se bahar bhi duniya hai,warning,padhai control karo,medium,padhai se bahar bhi duniya hai
+WiFi ko thoda control karo seriously,love,main tumhari care karti hoon,low,wifi ko thoda control karo seriously
+college pe hi future depend karega kya,disappointment,better karo,low,college pe hi future depend karega kya
+sleep pe hi future depend karega kya na,anger,sleep ki wajah se gussa hai,rip,sleep pe hi future depend karega kya na
+attendance pe hi future depend karega kya na,emotional_blackmail,mujhe ignore mat karo,high,attendance pe hi future depend karega kya na
+Aaj bhi TV ka hi scene hai please,disappointment,better karo,low,aaj bhi tv ka hi scene hai please
+Bas room mein hi busy rehna yaar,anger,room ki wajah se gussa hai,high,bas room mein hi busy rehna yaar
+khaana ko thoda control karo seriously,emotional_blackmail,mujhe ignore mat karo,high,khaana ko thoda control karo seriously
+Pura din shopping hi chalega kya na,disappointment,better karo,medium,pura din shopping hi chalega kya na
+Aaj bhi charger ka hi scene hai yaar,love,main tumhari care karti hoon,low,aaj bhi charger ka hi scene hai yaar
+WiFi se bahar bhi duniya hai seriously,anger,WiFi ki wajah se gussa hai,rip,wifi se bahar bhi duniya hai seriously
+phone ko thoda control karo beta,anger,phone ki wajah se gussa hai,high,phone ko thoda control karo beta
+Mujhe tiffin ka update nahi chahiye,emotional_blackmail,mujhe ignore mat karo,high,mujhe tiffin ka update nahi chahiye
+phone se bahar bhi duniya hai please,care,phone ke saath balance rakho,low,phone se bahar bhi duniya hai please
+bike se bahar bhi duniya hai na,sarcasm,tum bike zyada use kar rahe ho,low,bike se bahar bhi duniya hai na
+gaming pe hi future depend karega kya,anger,gaming ki wajah se gussa hai,high,gaming pe hi future depend karega kya
+shopping se bahar bhi duniya hai na,care,shopping ke saath balance rakho,low,shopping se bahar bhi duniya hai na
+bike ko side mein rakho thodi der beta,disappointment,better karo,low,bike ko side mein rakho thodi der beta
+room ko thoda control karo na,care,room ke saath balance rakho,low,room ko thoda control karo na
+kitchen pe hi future depend karega kya beta,care,kitchen ke saath balance rakho,low,kitchen pe hi future depend karega kya beta
+"Phone hi chala lo pura din, wahi toh khana dega.",sarcasm,You spend too much time on your phone.,low,phone hi chala lo pura din wahi toh khana dega
+"Haan, hum toh pagal hain jo tumhara bhala sochte hain.",sarcasm,You don't value our advice.,low,haan hum toh pagal hain jo tumhara bhala sochte hain
+Paise ped pe ugtay hain na tere liye?,sarcasm,Stop spending money like it's infinite.,low,paise ped pe ugtay hain na tere liye
+Bade log ho gaye ho ab humari zaroorat kahan.,sarcasm,You think you are too smart for us.,low,bade log ho gaye ho ab humari zaroorat kahan
+Inhe lagta hai ye Google se zyada jaante hain.,sarcasm,You think you know everything.,low,inhe lagta hai ye google se zyada jaante hain
+"Saara din bistar pe pade raho, medal milega.",sarcasm,Stop being lazy.,low,saara din bistar pe pade raho medal milega
+"Wait, let me take an appointment to talk to my child.",sarcasm,You never have time for me.,low,wait let me take an appointment to talk to my child
+Arey waah! Aaj suraj kaha se nikla jo tum jaldi uth gaye?,sarcasm,I'm shocked you woke up early.,low,arey waah aaj suraj kaha se nikla jo tum jaldi uth gaye
+Is ghar ko hotel bana rakha hai.,sarcasm,You only come home to eat and sleep.,low,is ghar ko hotel bana rakha hai
+Nawabzaade ke liye red carpet bichaun?,sarcasm,You are acting entitled.,low,nawabzaade ke liye red carpet bichaun
+Tumhare doston ke liye toh hum dushman hain.,sarcasm,You prefer your friends over family.,low,tumhare doston ke liye toh hum dushman hain
+Wah! Itni mehnat? Kahin bimaar na ho jao.,sarcasm,You are doing the bare minimum.,low,wah itni mehnat kahin bimaar na ho jao
+Phone ko hi mummy bana lo.,sarcasm,You are obsessed with technology.,low,phone ko hi mummy bana lo
+Bahut bade collector banoge kabaad jama karke.,sarcasm,Clean your messy room.,low,bahut bade collector banoge kabaad jama karke
+"Haan beta, duniya tumhare hi toh intezaar mein baithi hai.",sarcasm,You are being delusional.,low,haan beta duniya tumhare hi toh intezaar mein baithi hai
+"Tum toh PM banoge, itne busy jo rehte ho.",sarcasm,You are making excuses for not doing chores.,low,tum toh pm banoge itne busy jo rehte ho
+Lagta hai ye ghar meri wajah se chal raha hai.,sarcasm,I do everything while you do nothing.,low,lagta hai ye ghar meri wajah se chal raha hai
+Itna padh liya ki ab dimaag hi nahi bacha?,sarcasm,You are acting stupid despite being educated.,low,itna padh liya ki ab dimaag hi nahi bacha
+Zubaan toh aise chalti hai jaise scissors.,sarcasm,You are being too argumentative.,low,zubaan toh aise chalti hai jaise scissors
+"Haan haan, sab meri hi galti hai.",sarcasm,Stop blaming me for your mistakes.,low,haan haan sab meri hi galti hai
+Kash mere paas bhi itna faltu waqt hota.,sarcasm,I wish I could be as lazy as you.,low,kash mere paas bhi itna faltu waqt hota
+Agli baar bill tum hi bharna.,sarcasm,You consume too much electricity.,low,agli baar bill tum hi bharna
+Tumhare baap ka raj hai yahan?,sarcasm,Follow the house rules.,low,tumhare baap ka raj hai yahan
+"Oh, sorry! I forgot I have to take permission to enter your room.",sarcasm,Your room is too messy.,low,oh sorry i forgot i have to take permission to enter your room
+"Kitni slim ho gayi ho, nazar na lag jaye.",sarcasm,You are not eating enough.,low,kitni slim ho gayi ho nazar na lag jaye
+Bas yahi reh gaya tha dekhne ko.,sarcasm,I am disappointed in your action.,low,bas yahi reh gaya tha dekhne ko
+Tumhare bina toh ye duniya ruk jayegi na.,sarcasm,Stop acting like you're indispensable.,low,tumhare bina toh ye duniya ruk jayegi na
+Inka toh alag hi swag hai.,sarcasm,You are being unnecessarily rebellious.,low,inka toh alag hi swag hai
+"Aisi aulaad sabko de, taki sabko mera dard samajh aaye.",sarcasm,You are a handful.,low,aisi aulaad sabko de taki sabko mera dard samajh aaye
+"TV thoda aur paas se dekh lo, aankhein andar ghus jayengi.",sarcasm,You're ruining your eyesight.,low,tv thoda aur paas se dekh lo aankhein andar ghus jayengi
+Khana cold ho gaya? Micro-oven toh tumhare liye hi laya hai.,sarcasm,Stop complaining about cold food.,low,khana cold ho gaya microoven toh tumhare liye hi laya hai
+Tumhare dimaag mein dahi jam gaya hai kya?,sarcasm,Use your common sense.,low,tumhare dimaag mein dahi jam gaya hai kya
+"Paisa toh haath ki mail hai, hai na?",sarcasm,You have no value for money.,low,paisa toh haath ki mail hai hai na
+Tum toh scientist banoge ye sab karke.,sarcasm,Your hobbies are useless.,low,tum toh scientist banoge ye sab karke
+Waah! Aaj naha liya? Kya baat hai!,sarcasm,You finally took a shower.,low,waah aaj naha liya kya baat hai
+"Poora sheher ghoom lo, ghar toh bas sone aana.",sarcasm,You are always outside.,low,poora sheher ghoom lo ghar toh bas sone aana
+Is phone ko aag laga dungi ek din.,sarcasm,Your phone is the cause of all problems.,low,is phone ko aag laga dungi ek din
+"Humein kya pata, hum toh anpadh hain.",sarcasm,You are dismissing my experience.,low,humein kya pata hum toh anpadh hain
+Bahut bade saheb aaye hain.,sarcasm,Stop acting like a boss.,low,bahut bade saheb aaye hain
+Itna attitude kahan se laate ho?,sarcasm,You are being arrogant.,low,itna attitude kahan se laate ho
+"Ghar aa tu, phir batati hu.",anger,You are in big trouble once you get home.,high,ghar aa tu phir batati hu
+"Ek thappad padega na, saari hoshiyari nikal jayegi.",anger,I will hit you if you act smart.,high,ek thappad padega na saari hoshiyari nikal jayegi
+Zubaan lada raha hai mujhse?,anger,Don't talk back to me.,high,zubaan lada raha hai mujhse
+Abhi ke abhi ye phone band kar!,anger,Put the phone away immediately.,high,abhi ke abhi ye phone band kar
+Pagal karke rakh diya hai mujhe.,anger,You are driving me crazy.,high,pagal karke rakh diya hai mujhe
+Awaaz neeche!,anger,Lower your volume.,high,awaaz neeche
+Bahar nikal is ghar se!,anger,I am extremely angry with you.,high,bahar nikal is ghar se
+Saara din sirf aaram chahiye tumhe.,anger,You are doing nothing to help.,high,saara din sirf aaram chahiye tumhe
+Dimaag mat kharab kar mera.,anger,Don't annoy me further.,high,dimaag mat kharab kar mera
+Chup chap khana khao warna bhookhe so jao.,anger,Eat without complaining.,high,chup chap khana khao warna bhookhe so jao
+Kahan mara tha itni der?,anger,Where were you for so long?,high,kahan mara tha itni der
+Ek baar aur bola toh dekh lena.,anger,Don't repeat that mistake.,high,ek baar aur bola toh dekh lena
+Mere sabar ka imtehaan mat lo.,anger,Don't push me to my limit.,high,mere sabar ka imtehaan mat lo
+Kya samjh rakha hai mujhe?,anger,Don't disrespect me.,high,kya samjh rakha hai mujhe
+Abhi thappad khaoge mere haath se.,anger,I am about to hit you.,high,abhi thappad khaoge mere haath se
+Bas bahut ho gaya!,anger,I've had enough of your behavior.,high,bas bahut ho gaya
+Kitni baar bolna padega ek hi baat?,anger,Listen to me the first time.,high,kitni baar bolna padega ek hi baat
+Tameez bhool gaye ho kya?,anger,Where are your manners?,high,tameez bhool gaye ho kya
+"Padhai likhai chhod do, dukan pe baitho.",anger,Stop wasting time.,high,padhai likhai chhod do dukan pe baitho
+Galti karke aankhein dikha rahe ho?,anger,Don't be defiant after a mistake.,high,galti karke aankhein dikha rahe ho
+Dikhayi mat dena mujhe agle ek ghante tak.,anger,Stay out of my sight.,high,dikhayi mat dena mujhe agle ek ghante tak
+Bolna hai ya maar khani hai?,anger,Answer me or face consequences.,rip,bolna hai ya maar khani hai
+Ghar hai ya koi dharamshala?,anger,Respect the rules of the house.,high,ghar hai ya koi dharamshala
+Abhi sab thik kar deti hu tera.,anger,I will fix your attitude now.,high,abhi sab thik kar deti hu tera
+Kaan ke neeche bajau ek?,anger,I'm about to slap you.,high,kaan ke neeche bajau ek
+Kitna jhooth bologe mujhse?,anger,I know you are lying.,high,kitna jhooth bologe mujhse
+Haram ka khana band karo.,anger,Stop being lazy and help out.,high,haram ka khana band karo
+Nalayak kahin ka!,anger,You are useless.,high,nalayak kahin ka
+Sudhar jao warna main sudhaar dungi.,anger,Fix your behavior or I will.,high,sudhar jao warna main sudhaar dungi
+Andhe ho gaye ho kya?,anger,Pay attention.,high,andhe ho gaye ho kya
+Dimag ghutne mein hai kya?,anger,Are you being stupid on purpose?,high,dimag ghutne mein hai kya
+Koshish bhi mat karna dobara.,anger,Don't you dare do that again.,high,koshish bhi mat karna dobara
+Khana phenk dungi bahar agar nakhre kiye.,anger,Don't be picky with food.,high,khana phenk dungi bahar agar nakhre kiye
+Bahut par nikal aaye hain tumhare.,anger,You're getting too rebellious.,high,bahut par nikal aaye hain tumhare
+Sab tod phod ke rakh do bas.,anger,You are being careless.,high,sab tod phod ke rakh do bas
+Sham tak ghar nahi aaye toh darwaza band milega.,anger,Come home on time.,high,sham tak ghar nahi aaye toh darwaza band milega
+Tumse toh baat karna hi bekar hai.,anger,Talking to you is a waste of time.,high,tumse toh baat karna hi bekar hai
+Zinda gaad dungi.,anger,I'm beyond furious.,rip,zinda gaad dungi
+Maar khaani hai kya?,anger,Do you want a beating?,rip,maar khaani hai kya
+Hudd hoti hai kisi cheez ki!,anger,You have crossed the line.,high,hudd hoti hai kisi cheez ki
+Jab main mar jaungi tab pata chalega.,emotional_blackmail,You will miss me when I'm gone.,medium,jab main mar jaungi tab pata chalega
+"Theek hai, meri mat suno.",emotional_blackmail,"Ignore me, you'll regret it.",medium,theek hai meri mat suno
+Maine tumhare liye kya nahi kiya?,emotional_blackmail,You are being ungrateful.,medium,maine tumhare liye kya nahi kiya
+Pata nahi kaunse pichle janam ke paap hain.,emotional_blackmail,You are a punishment for me.,medium,pata nahi kaunse pichle janam ke paap hain
+Meri toh koi izzat hi nahi hai is ghar mein.,emotional_blackmail,No one listens to me.,medium,meri toh koi izzat hi nahi hai is ghar mein
+"Thik hai, mat khao khana, main bhi nahi khaungi.",emotional_blackmail,I will starve to make you feel guilty.,medium,thik hai mat khao khana main bhi nahi khaungi
+"Tumhe kya, hum toh purane khayalat ke hain.",emotional_blackmail,You think we are outdated.,medium,tumhe kya hum toh purane khayalat ke hain
+Bas yahi din dekhne ke liye paala tha tumhe?,emotional_blackmail,I regret raising you like this.,medium,bas yahi din dekhne ke liye paala tha tumhe
+Meri toh kismat hi kharab hai.,emotional_blackmail,I am unlucky to have you.,medium,meri toh kismat hi kharab hai
+"Padosi ke bachon ko dekho, kitni seva karte hain.",emotional_blackmail,You don't take care of me.,medium,padosi ke bachon ko dekho kitni seva karte hain
+"Doctor ne mana kiya hai tension lene se, par tum...",emotional_blackmail,You're worsening my health.,medium,doctor ne mana kiya hai tension lene se par tum
+Agli baar mujhse baat mat karna.,emotional_blackmail,I am cutting you off.,medium,agli baar mujhse baat mat karna
+Maine apne saare sapne maar diye tumhare liye.,emotional_blackmail,I sacrificed everything for you.,medium,maine apne saare sapne maar diye tumhare liye
+Ek din yaad karoge ki koi thi jo itna dhyan rakhti thi.,emotional_blackmail,You'll regret ignoring my care.,medium,ek din yaad karoge ki koi thi jo itna dhyan rakhti thi
+"Haan, main toh buri ma hu na?",emotional_blackmail,You're making me feel like a failure.,medium,haan main toh buri ma hu na
+"Tumhare paas toh sab ke liye time hai, bas maa ke liye nahi.",emotional_blackmail,I am not your priority.,medium,tumhare paas toh sab ke liye time hai bas maa ke liye nahi
+"Mujhe kya, main toh do din ki mehmaan hu.",emotional_blackmail,I won't be around much longer.,medium,mujhe kya main toh do din ki mehmaan hu
+Bhool jao ki tumhari koi ma bhi hai.,emotional_blackmail,Act as if I don't exist.,medium,bhool jao ki tumhari koi ma bhi hai
+"Tum khush raho, hum toh aise hi jee lenge.",emotional_blackmail,Enjoy yourself while I suffer.,medium,tum khush raho hum toh aise hi jee lenge
+Duniya thukegi mujh pe ki kaisa beta paala.,emotional_blackmail,You are embarrassing me.,medium,duniya thukegi mujh pe ki kaisa beta paala
+Mere bujhte hue chirag ko toh dekh lo.,emotional_blackmail,I am old and need attention.,medium,mere bujhte hue chirag ko toh dekh lo
+Roti hui ma ki dua nahi lagegi.,emotional_blackmail,You are hurting me deeply.,medium,roti hui ma ki dua nahi lagegi
+Tumne toh mera sir jhuka diya.,emotional_blackmail,You brought shame to me.,medium,tumne toh mera sir jhuka diya
+"Mat batao kahan ja rahe ho, hum toh gair hain.",emotional_blackmail,I feel like a stranger here.,medium,mat batao kahan ja rahe ho hum toh gair hain
+Khana zeher lag raha hai tumhari baatein sunke.,emotional_blackmail,Your words are killing me.,medium,khana zeher lag raha hai tumhari baatein sunke
+"Bhagwan se daro, ma ka dil dukha rahe ho.",emotional_blackmail,God will punish you for this.,medium,bhagwan se daro ma ka dil dukha rahe ho
+Pata nahi kab akal aayegi tumhe.,emotional_blackmail,I'm waiting for you to mature.,medium,pata nahi kab akal aayegi tumhe
+Ab main kuch nahi bolungi.,emotional_blackmail,Silent treatment starting now.,medium,ab main kuch nahi bolungi
+"Tumhari khushi mein hi meri khushi hai, bhale hi main dukhi rahu.",emotional_blackmail,I suffer for your sake.,medium,tumhari khushi mein hi meri khushi hai bhale hi main dukhi rahu
+"Main toh naukrani hu, kaam karke mar jaungi.",emotional_blackmail,I do all the work with no thanks.,medium,main toh naukrani hu kaam karke mar jaungi
+"Beta, main toh bas tumhara bhala chahti hu.",emotional_blackmail,Manipulating for your own good.,medium,beta main toh bas tumhara bhala chahti hu
+Tumhe toh mera chehra dekhna bhi pasand nahi.,emotional_blackmail,You hate being around me.,medium,tumhe toh mera chehra dekhna bhi pasand nahi
+Aaj ke baad main kitchen mein nahi ghusungi.,emotional_blackmail,I'm on strike.,medium,aaj ke baad main kitchen mein nahi ghusungi
+Meri aatma ko shanti tabhi milegi jab tum sudhar jaoge.,emotional_blackmail,My peace depends on you.,medium,meri aatma ko shanti tabhi milegi jab tum sudhar jaoge
+Apne bache honge tab samjhoge.,emotional_blackmail,You'll understand my pain later.,medium,apne bache honge tab samjhoge
+Mujhe kya pata tha ki mera beta aisa niklega.,emotional_blackmail,I had higher expectations.,medium,mujhe kya pata tha ki mera beta aisa niklega
+Maine toh khoon paseena ek kar diya tumhare liye.,emotional_blackmail,I worked too hard for you.,medium,maine toh khoon paseena ek kar diya tumhare liye
+Main toh bas bojh hu is ghar mein.,emotional_blackmail,I feel unwanted.,medium,main toh bas bojh hu is ghar mein
+Ja jee le apni zindagi.,emotional_blackmail,I'm done trying.,medium,ja jee le apni zindagi
+"Beta, khana kha liya?",care,Checking if you're hungry.,low,beta khana kha liya
+Paani piya ki nahi?,care,Stay hydrated.,low,paani piya ki nahi
+"Bahut thak gaye hoge, thoda aaram kar lo.",care,Take a rest.,low,bahut thak gaye hoge thoda aaram kar lo
+"Doodh pi lo, shakti aayegi.",care,Drink milk for strength.,low,doodh pi lo shakti aayegi
+Sarr mein dard hai? Tel laga du?,care,Let me give you a head massage.,low,sarr mein dard hai tel laga du
+Sone se pehle haldi wala doodh pee lena.,care,Turmeric milk is healthy.,low,sone se pehle haldi wala doodh pee lena
+"Dheere jao, raste mein bheed hogi.",care,Drive safely.,low,dheere jao raste mein bheed hogi
+"Paisa chahiye toh maang lena, sharmana mat.",care,Tell me if you need money.,low,paisa chahiye toh maang lena sharmana mat
+Bahir ka kachra mat khaya karo.,care,Avoid street food.,low,bahir ka kachra mat khaya karo
+"Sweater pehan lo, thand lag jayegi.",care,Wear a sweater.,low,sweater pehan lo thand lag jayegi
+"Accha hua tum aa gaye, kab se intezaar kar rahi thi.",care,I missed you and was worried.,low,accha hua tum aa gaye kab se intezaar kar rahi thi
+"Badam khaya karo, dimaag tez hoga.",care,Eat almonds for memory.,low,badam khaya karo dimaag tez hoga
+"Subeh jaldi utha karo, sehat ke liye accha hai.",care,Wake up early for health.,low,subeh jaldi utha karo sehat ke liye accha hai
+Chai banau tumhare liye?,care,Would you like some tea?,low,chai banau tumhare liye
+Tiffin khatam kiya aaj?,care,Did you eat your lunch?,low,tiffin khatam kiya aaj
+"Dhoop mein mat nikalna, kaale ho jaoge.",care,Protect your skin.,low,dhoop mein mat nikalna kaale ho jaoge
+"Thoda dahi cheeni kha lo, shubh hota hai.",care,Good luck snack.,low,thoda dahi cheeni kha lo shubh hota hai
+"Health ka dhyan rakha karo, kaam toh hota rahega.",care,Health over work.,low,health ka dhyan rakha karo kaam toh hota rahega
+"Ankhein laal ho gayi hain, so jao ab.",care,You need sleep.,low,ankhein laal ho gayi hain so jao ab
+Maine tumhara favourite rajma chawal banaya hai.,care,I made your favorite food.,low,maine tumhara favourite rajma chawal banaya hai
+"Zyada mat padho, thoda ghoom liya karo.",care,Don't overstress.,low,zyada mat padho thoda ghoom liya karo
+Mere bache ko kiski nazar lag gayi.,care,I'm worried about your vibes.,low,mere bache ko kiski nazar lag gayi
+Ghar ka khana sabse best hota hai.,care,Eat home-cooked meals.,low,ghar ka khana sabse best hota hai
+"Sab theek ho jayega, chinta mat karo.",care,Don't worry.,low,sab theek ho jayega chinta mat karo
+"Main hu na, darna kaisa?",care,I'm here for you.,low,main hu na darna kaisa
+"Phone thoda kam dekha karo, aankhein dukhne lagengi.",care,Protect your eyes.,low,phone thoda kam dekha karo aankhein dukhne lagengi
+"Nimbu paani pee lo, garmi bahut hai.",care,Have lemonade for the heat.,low,nimbu paani pee lo garmi bahut hai
+Shoes nikal ke thoda aaram karo.,care,Relax.,low,shoes nikal ke thoda aaram karo
+Fruit khaoge ya juice piyoge?,care,Have some nutrition.,low,fruit khaoge ya juice piyoge
+"Bimar lag rahe ho, doctor ke paas chale?",care,Let's see a doctor.,low,bimar lag rahe ho doctor ke paas chale
+Kapde dho diye hain maine.,care,I've done your laundry.,low,kapde dho diye hain maine
+Bag pack kar liya kal ke liye?,care,Be prepared.,low,bag pack kar liya kal ke liye
+Zubaan kadvie hai par dil saaf hai mera.,care,I care despite being blunt.,low,zubaan kadvie hai par dil saaf hai mera
+"Khush raha karo, wahi sabse badi dawai hai.",care,Happiness is the best medicine.,low,khush raha karo wahi sabse badi dawai hai
+Raste mein kuch kha lena.,care,Eat on the way.,low,raste mein kuch kha lena
+Phone ka charger bhool gaye tum.,care,Don't forget your charger.,low,phone ka charger bhool gaye tum
+Main tumhare liye prayer karungi.,care,I'll pray for you.,low,main tumhare liye prayer karungi
+Thoda exercise bhi kiya karo.,care,Stay active.,low,thoda exercise bhi kiya karo
+"Safai rakha karo, bimar nahi padoge.",care,Keep clean to stay healthy.,low,safai rakha karo bimar nahi padoge
+Tum thik ho na?,care,Checking in on you.,low,tum thik ho na
+Tumse ye umeed nahi thi.,disappointment,I expected better.,medium,tumse ye umeed nahi thi
+"Sharma ji ka beta dekho, kahan se kahan pahunch gaya.",disappointment,Compare yourself to others.,medium,sharma ji ka beta dekho kahan se kahan pahunch gaya
+Sab mehnat paani mein gayi.,disappointment,My efforts were wasted.,medium,sab mehnat paani mein gayi
+Naam dubo diya mera.,disappointment,You brought shame.,medium,naam dubo diya mera
+Pata nahi kya banoge zindagi mein.,disappointment,I'm worried about your failure.,medium,pata nahi kya banoge zindagi mein
+Maine socha tha tum bade hoke sahara banoge.,disappointment,I thought you'd support me.,medium,maine socha tha tum bade hoke sahara banoge
+Itne kam marks? Itna kharcha kiya tum pe.,disappointment,Grades are too low for the cost.,medium,itne kam marks itna kharcha kiya tum pe
+Bas yahi seekha hai tumne?,disappointment,Is this the result of your raising?,medium,bas yahi seekha hai tumne
+Tumhari toh kismat hi soti rehti hai.,disappointment,You are chronically lazy.,medium,tumhari toh kismat hi soti rehti hai
+Log kya kahenge?,disappointment,What will society think?,medium,log kya kahenge
+Main kisi ko mooh dikhane layak nahi rahi.,disappointment,I'm too embarrassed.,medium,main kisi ko mooh dikhane layak nahi rahi
+Tumhe toh bas ghumna aur maza karna hai.,disappointment,You are irresponsible.,medium,tumhe toh bas ghumna aur maza karna hai
+Maine tumhe bahut sar pe chadha rakha hai.,disappointment,I've spoiled you.,medium,maine tumhe bahut sar pe chadha rakha hai
+Duniya aage nikal gayi aur tum wahin ke wahin ho.,disappointment,You're not progressing.,medium,duniya aage nikal gayi aur tum wahin ke wahin ho
+Meri toh sunni hi nahi hai tumne.,disappointment,You never listen.,medium,meri toh sunni hi nahi hai tumne
+Tumhare doston ne tumhe bigad diya hai.,disappointment,Bad influence friends.,medium,tumhare doston ne tumhe bigad diya hai
+Kya kami reh gayi thi meri parvarish mein?,disappointment,Where did I go wrong?,medium,kya kami reh gayi thi meri parvarish mein
+Ab toh bhagwan hi maalik hai tera.,disappointment,Only God can save you.,medium,ab toh bhagwan hi maalik hai tera
+Itna bada ho gaya par akal bacho jaisi hai.,disappointment,Physically grown but immature.,medium,itna bada ho gaya par akal bacho jaisi hai
+Zindagi ko mazak samjh rakha hai.,disappointment,Not taking life seriously.,medium,zindagi ko mazak samjh rakha hai
+Koi zimmedari hai ya nahi?,disappointment,Don't you have a sense of duty?,medium,koi zimmedari hai ya nahi
+Sirf paise udana aata hai tumhe.,disappointment,You only waste money.,medium,sirf paise udana aata hai tumhe
+Ek kaam dhang se nahi hota tumse.,disappointment,You are incompetent.,medium,ek kaam dhang se nahi hota tumse
+Pata nahi kiske upar gaye ho.,disappointment,Who did you inherit this from?,medium,pata nahi kiske upar gaye ho
+Kaash maine tumhara kehna na mana hota.,disappointment,I regret listening to you.,medium,kaash maine tumhara kehna na mana hota
+Ab pachtane se kya hota hai.,disappointment,Too late for regrets.,medium,ab pachtane se kya hota hai
+Career ka kuch socha hai ya aise hi nalle rahoge?,disappointment,Do you have a plan?,medium,career ka kuch socha hai ya aise hi nalle rahoge
+"Tumhe toh bas phone chahiye, aur kuch nahi.",disappointment,Your phone is your world.,medium,tumhe toh bas phone chahiye aur kuch nahi
+"Chalo, meri hi galti hai jo tumse umeed rakhi.",disappointment,My fault for expecting anything.,medium,chalo meri hi galti hai jo tumse umeed rakhi
+Ghar ke kisi kaam mein haath nahi batana.,disappointment,You never help.,medium,ghar ke kisi kaam mein haath nahi batana
+Kitni baar samjhaya par tum toh tum ho.,disappointment,You never change.,medium,kitni baar samjhaya par tum toh tum ho
+Bas baatein karwa lo tumse.,disappointment,"All talk, no action.",medium,bas baatein karwa lo tumse
+Galti karke maafi bhi nahi maangte.,disappointment,Too proud to apologize.,medium,galti karke maafi bhi nahi maangte
+Tumhare dimaag mein gobar bhara hai.,disappointment,You are being foolish.,medium,tumhare dimaag mein gobar bhara hai
+Kahin ke nahi rahoge agar aisa hi chalta raha.,disappointment,You'll end up with nothing.,medium,kahin ke nahi rahoge agar aisa hi chalta raha
+Mera toh sir dard ho gaya hai tumhare kaarnamon se.,disappointment,Your actions stress me out.,medium,mera toh sir dard ho gaya hai tumhare kaarnamon se
+"Ab main kuch nahi bolungi, jo karna hai karo.",disappointment,I'm giving up on guiding you.,medium,ab main kuch nahi bolungi jo karna hai karo
+Padhai mein dhyan hota toh aaj ye din na dekhna padta.,disappointment,Education would have saved you.,medium,padhai mein dhyan hota toh aaj ye din na dekhna padta
+Nalayak aulaad.,disappointment,Useless child.,medium,nalayak aulaad
+"Theek hai, main hi kar lungi saara kaam.",passive_aggressive,I'm upset you're not helping.,medium,theek hai main hi kar lungi saara kaam
+"Nahi, nahi, tum aaram karo, main toh naukrani hu.",passive_aggressive,I do everything while you relax.,medium,nahi nahi tum aaram karo main toh naukrani hu
+"Khana thanda ho gaya hai, par koi baat nahi.",passive_aggressive,You're late for dinner.,medium,khana thanda ho gaya hai par koi baat nahi
+"Maine toh bas pucha tha, itna gussa kyun?",passive_aggressive,Playing victim after annoying you.,medium,maine toh bas pucha tha itna gussa kyun
+"Koi baat nahi, meri khushi ki kise parvah hai.",passive_aggressive,No one cares about me.,medium,koi baat nahi meri khushi ki kise parvah hai
+"Bade log hain, humse kyun baat karenge.",passive_aggressive,You think you're too good for me.,medium,bade log hain humse kyun baat karenge
+"Haan, sab tumhari hi marzi se hoga.",passive_aggressive,I have no say in this house.,medium,haan sab tumhari hi marzi se hoga
+"Ghar hai ya hotel, jab mann kiya aaye jab mann kiya gaye.",passive_aggressive,No respect for house rules.,medium,ghar hai ya hotel jab mann kiya aaye jab mann kiya gaye
+"Tum toh bahut busy rehte ho, humein hi waqt nikalna padega.",passive_aggressive,You never make time for me.,medium,tum toh bahut busy rehte ho humein hi waqt nikalna padega
+"Main toh purani ho gayi hu, meri baatein kahan pasand aayengi.",passive_aggressive,You find me boring.,medium,main toh purani ho gayi hu meri baatein kahan pasand aayengi
+"Kitna saaf kamra hai, nazar na lag jaye.",passive_aggressive,Your room is a mess.,medium,kitna saaf kamra hai nazar na lag jaye
+Accha? Mujhe toh pata hi nahi tha.,passive_aggressive,Being sarcastic about your info.,medium,accha mujhe toh pata hi nahi tha
+"Paise toh tumhare paas bahut hain, humein kya.",passive_aggressive,You're being overspending/stingy.,medium,paise toh tumhare paas bahut hain humein kya
+"Chalo, kam se kam aaj tum ghar toh ho.",passive_aggressive,You're rarely home.,medium,chalo kam se kam aaj tum ghar toh ho
+Maine toh socha tha aaj saath mein khana khayenge.,passive_aggressive,Disappointed you have other plans.,medium,maine toh socha tha aaj saath mein khana khayenge
+"Nahi, main theek hu, bas thoda dard hai.",passive_aggressive,Guilt-tripping about health.,medium,nahi main theek hu bas thoda dard hai
+Logon ke bache toh maa ko ghumane le jaate hain.,passive_aggressive,You never take me out.,medium,logon ke bache toh maa ko ghumane le jaate hain
+Pata nahi ye ghar kaise chal raha hai.,passive_aggressive,I'm exhausted doing everything.,medium,pata nahi ye ghar kaise chal raha hai
+Tumhari pasand hi sabse upar hai.,passive_aggressive,Bitter about your choices.,medium,tumhari pasand hi sabse upar hai
+"Bahut acchi baat hai, aur kya chahiye.",passive_aggressive,Not actually happy.,medium,bahut acchi baat hai aur kya chahiye
+Aaj toh badi jaldi yaad aa gayi meri.,passive_aggressive,You only call when you need something.,medium,aaj toh badi jaldi yaad aa gayi meri
+Koi zaroorat nahi hai meri help ki.,passive_aggressive,Offended you're ignoring me.,medium,koi zaroorat nahi hai meri help ki
+"Thoda aur so lo, abhi toh sirf 11 baje hain.",passive_aggressive,Waking up too late.,medium,thoda aur so lo abhi toh sirf 11 baje hain
+"Maine toh sab bana ke rakh diya hai, jab mann kare kha lena.",passive_aggressive,Annoyed you're not eating with us.,medium,maine toh sab bana ke rakh diya hai jab mann kare kha lena
+"Haan, main hi sab galat samajhti hu.",passive_aggressive,Gaslighting response.,medium,haan main hi sab galat samajhti hu
+"Arey, main toh bas ek maa hu, meri kaun sunta hai.",passive_aggressive,Feeling undervalued.,medium,arey main toh bas ek maa hu meri kaun sunta hai
+"Tumhare friends toh bahut acche hain, hum hi bure hain.",passive_aggressive,You prefer friends over me.,medium,tumhare friends toh bahut acche hain hum hi bure hain
+"Aaj khana kaisa bana hai, pucha kisi ne?",passive_aggressive,No appreciation for cooking.,medium,aaj khana kaisa bana hai pucha kisi ne
+Tum toh doctor se bhi zyada jaante ho.,passive_aggressive,Ignoring medical advice.,medium,tum toh doctor se bhi zyada jaante ho
+"Theek hai, main chup ho jati hu.",passive_aggressive,I'm angry and stopping.,medium,theek hai main chup ho jati hu
+"Kitna phone chalaoge, thoda thak gaye hoge.",passive_aggressive,Stop using the phone.,medium,kitna phone chalaoge thoda thak gaye hoge
+"Mujhe kya, tumhara career hai.",passive_aggressive,I care but acting like I don't.,medium,mujhe kya tumhara career hai
+"Haan, sabko bata do ki main kitni buri hu.",passive_aggressive,Stop complaining about me.,medium,haan sabko bata do ki main kitni buri hu
+Main toh bas deewaron se baatein karti hu.,passive_aggressive,No one responds to me.,medium,main toh bas deewaron se baatein karti hu
+Wah! Itna bada surprise?,passive_aggressive,Annoyed by your sudden news.,medium,wah itna bada surprise
+Kash mere paas bhi ek smart bacha hota.,passive_aggressive,Comparing you to others.,medium,kash mere paas bhi ek smart bacha hota
+"Koi baat nahi, main akeli hi chali jaungi.",passive_aggressive,I want you to come but you won't.,medium,koi baat nahi main akeli hi chali jaungi
+Aaj kal ke bache...,passive_aggressive,Your generation is the problem.,medium,aaj kal ke bache
+"Chodo, tumse kehna hi bekar hai.",passive_aggressive,Giving up out of frustration.,medium,chodo tumse kehna hi bekar hai
+Tumhe toh meri mehnat dikhti hi nahi.,passive_aggressive,You take me for granted.,medium,tumhe toh meri mehnat dikhti hi nahi
+Sudhar ja warna bahar nikal dungi.,warning,Fix behavior or leave.,high,sudhar ja warna bahar nikal dungi
+Ek aur baar phone dekha toh tod dungi.,warning,I'll break your phone.,high,ek aur baar phone dekha toh tod dungi
+"Pappa ko aane do, phir dekhna.",warning,Father will deal with you.,high,pappa ko aane do phir dekhna
+Agli baar late aaye toh darwaza nahi khulega.,warning,Don't come home late.,high,agli baar late aaye toh darwaza nahi khulega
+Zubaan sambhaal ke baat karo.,warning,Watch your tone.,high,zubaan sambhaal ke baat karo
+Ye akhri baar bol rahi hu.,warning,Final warning.,high,ye akhri baar bol rahi hu
+Zyada udne ki koshish mat karo.,warning,Don't get ahead of yourself.,high,zyada udne ki koshish mat karo
+Samajh jao warna samjha dungi.,warning,Understand or face force.,high,samajh jao warna samjha dungi
+Mere haath se maar khaoge ab.,warning,I'm about to hit you.,high,mere haath se maar khaoge ab
+Hosh mein aa jao.,warning,Get your act together.,high,hosh mein aa jao
+Agar marks kam aaye toh tuition band.,warning,Improve grades or no help.,high,agar marks kam aaye toh tuition band
+Doston ke saath ghumna band.,warning,You are grounded.,high,doston ke saath ghumna band
+Saara pocket money band kar dungi.,warning,Stopping your allowance.,high,saara pocket money band kar dungi
+Dimaag thikane pe rakho.,warning,Stay sensible.,high,dimaag thikane pe rakho
+Ek thappad mein din mein taare dikh jayenge.,warning,I'll hit you hard.,high,ek thappad mein din mein taare dikh jayenge
+Awaaz mat uthao mere saamne.,warning,Don't shout.,high,awaaz mat uthao mere saamne
+Abhi batati hu tujhe.,warning,Lesson time.,high,abhi batati hu tujhe
+Dekh lena kya haal karti hu tera.,warning,I'll make you regret this.,high,dekh lena kya haal karti hu tera
+Limit mein raho.,warning,Stay in boundaries.,high,limit mein raho
+Ye badtameezi nahi chalegi.,warning,No disrespect tolerated.,high,ye badtameezi nahi chalegi
+Chappal uthaun kya?,warning,Pick up slipper for hitting.,high,chappal uthaun kya
+"Bahut ho gayi dosti-yaari, ab padhai karo.",warning,"Stop socializing, start studying.",high,bahut ho gayi dostiyaari ab padhai karo
+Ek minute mein sab thik kar dungi.,warning,Disciplining you now.,high,ek minute mein sab thik kar dungi
+Shaant ho jao warna bura hoga.,warning,Calm down or else.,high,shaant ho jao warna bura hoga
+Kaan pakad ke bahar nikaal dungi.,warning,Physical ejection.,high,kaan pakad ke bahar nikaal dungi
+Mujhse panga mat lena.,warning,Don't mess with me.,high,mujhse panga mat lena
+Dikhayi mat dena mujhe aaj.,warning,Stay out of my way.,high,dikhayi mat dena mujhe aaj
+Abhi pappa ko phone karti hu.,warning,Reporting you to father.,high,abhi pappa ko phone karti hu
+Apni hadd mat bhoolo.,warning,Know your limits.,high,apni hadd mat bhoolo
+Sudharne ka ek mauka aur de rahi hu.,warning,Last chance.,high,sudharne ka ek mauka aur de rahi hu
+Samajhdaar ko ishara kafi hai.,warning,Take the hint.,high,samajhdaar ko ishara kafi hai
+Jyada hoshiyari mat dikhao.,warning,Don't act smart.,high,jyada hoshiyari mat dikhao
+Tameez se baat karo.,warning,Speak respectfully.,high,tameez se baat karo
+Ek shabd aur bola toh dekhna.,warning,Don't say another word.,high,ek shabd aur bola toh dekhna
+"Ye jo nakhre hain na, sab nikaal dungi.",warning,Ending your tantrums.,high,ye jo nakhre hain na sab nikaal dungi
+Bohot zyada zubaan chalne lagi hai teri.,warning,Talking back too much.,high,bohot zyada zubaan chalne lagi hai teri
+Khabardaar jo bahar gaye.,warning,Don't you dare leave.,high,khabardaar jo bahar gaye
+Pichwada laal kar dungi.,warning,I will beat you until sore.,high,pichwada laal kar dungi
+Kyun apni maut ko bula rahe ho?,warning,Why inviting trouble?,high,kyun apni maut ko bula rahe ho
+Subah se dekh rahi hu tumhe.,warning,Watching your bad behavior.,high,subah se dekh rahi hu tumhe
+Mera pyaara bacha.,love,My dear child.,low,mera pyaara bacha
+Kitna bada ho gaya hai mera beta.,love,My son has grown up.,low,kitna bada ho gaya hai mera beta
+Hamesha khush raho.,love,Stay happy always.,low,hamesha khush raho
+Meri umar bhi tumhe lag jaye.,love,May you live long.,low,meri umar bhi tumhe lag jaye
+Tum duniya ke sabse acche bache ho.,love,Best child in the world.,low,tum duniya ke sabse acche bache ho
+Aaj jo maangoge wahi banungi.,love,I'll cook whatever you want.,low,aaj jo maangoge wahi banungi
+Nazar utaar du teri.,love,Warding off evil eye.,low,nazar utaar du teri
+Bahut naam kamayega mera beta.,love,My son will be successful.,low,bahut naam kamayega mera beta
+Kitna handsome lag raha hai mera bacha.,love,Looking handsome.,low,kitna handsome lag raha hai mera bacha
+Tumhare bina ye ghar suna lagta hai.,love,House is empty without you.,low,tumhare bina ye ghar suna lagta hai
+"Bas tum khush raho, mujhe aur kuch nahi chahiye.",love,Your happiness is everything.,low,bas tum khush raho mujhe aur kuch nahi chahiye
+Duniya ki har khushi mile tumhe.,love,Get all the happiness.,low,duniya ki har khushi mile tumhe
+Kitna samjhdar hai mera bacha.,love,So sensible.,low,kitna samjhdar hai mera bacha
+Mera sher putt.,love,My brave son.,low,mera sher putt
+Jeete raho beta.,love,Live long.,low,jeete raho beta
+Tum toh meri jaan ho.,love,You are my life.,low,tum toh meri jaan ho
+Bhagwan tumhe hamesha salaamat rakhe.,love,May God keep you safe.,low,bhagwan tumhe hamesha salaamat rakhe
+Kitna pyaara kaam kiya hai tumne.,love,Lovely work.,low,kitna pyaara kaam kiya hai tumne
+Maa ka aashirwad hamesha tumhare saath hai.,love,Mother's blessings are with you.,low,maa ka aashirwad hamesha tumhare saath hai
+Aaj toh party honi chahiye.,love,Let's celebrate achievement.,low,aaj toh party honi chahiye
+"Chalo, aaj bahar khane chalte hain.",love,Let's eat out.,low,chalo aaj bahar khane chalte hain
+Tumne toh mera sir garv se uncha kar diya.,love,Made me proud.,low,tumne toh mera sir garv se uncha kar diya
+"Arey, thoda aur khao, kitne kamzor ho gaye ho.",love,"Eat more, you're thin.",low,arey thoda aur khao kitne kamzor ho gaye ho
+Meri aankhon ka taara.,love,Apple of my eye.,low,meri aankhon ka taara
+Tum jaisa bacha sabko mile.,love,Everyone needs a child like you.,low,tum jaisa bacha sabko mile
+Thoda aaram kar lo ladly.,love,"Rest, dear.",low,thoda aaram kar lo ladly
+Main tumhare liye hamesha yahan hu.,love,I'm always here for you.,low,main tumhare liye hamesha yahan hu
+Kitni acchi smile hai tumhari.,love,Beautiful smile.,low,kitni acchi smile hai tumhari
+Sabse pyara mera bacha.,love,Most beloved child.,low,sabse pyara mera bacha
+Tumhari har khwaish poori ho.,love,May wishes come true.,low,tumhari har khwaish poori ho
+Meri toh duniya hi tum ho.,love,You are my world.,low,meri toh duniya hi tum ho
+Kaise ho mere laal?,love,"How are you, dear?",low,kaise ho mere laal
+"Accha kaam kiya, shabaash!",love,Well done.,low,accha kaam kiya shabaash
+Tum hamesha sahi raste pe chalna.,love,Walk the right path.,low,tum hamesha sahi raste pe chalna
+Tumhari khushi meri pehli priority hai.,love,Your happiness first.,low,tumhari khushi meri pehli priority hai
+"Chinta mat karo, sab theek hoga.",love,Don't worry.,low,chinta mat karo sab theek hoga
+Mera sona beta.,love,My golden child.,low,mera sona beta
+Main tumse bahut pyaar karti hu.,love,I love you very much.,low,main tumse bahut pyaar karti hu
+Tum mere liye hamesha bache hi rahoge.,love,Always a child to me.,low,tum mere liye hamesha bache hi rahoge
+Jug jug jiyo.,love,Live for ages.,low,jug jug jiyo
